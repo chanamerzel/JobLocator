@@ -132,6 +132,7 @@ label {
         table-layout: auto;
     }
     header {
+        display: block;
         text-align: center;
         padding-right: 100rem;
         width: 100%;
